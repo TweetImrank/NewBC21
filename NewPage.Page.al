@@ -4,7 +4,7 @@ page 50100 TESPage
     ApplicationArea = All;
     UsageCategory = None;
     SourceTable = "Sales Header";
-
+    //test
     layout
     {
         area(Content)
